@@ -1,0 +1,238 @@
+# Pages CMS edits JSON files; published pages read them without changing the design.
+media:
+  input: assets
+  output: /assets
+  categories: [image]
+content:
+  - name: site
+    label: "Главная страница и контакты"
+    type: file
+    path: content/site.json
+    format: json
+    fields:
+      - name: hero_eyebrow
+        label: "Подпись над главным заголовком"
+        type: string
+      - name: hero_line_1
+        label: "Главный заголовок: строка 1"
+        type: string
+      - name: hero_line_2
+        label: "Главный заголовок: строка 2"
+        type: string
+      - name: hero_line_3
+        label: "Главный заголовок: строка 3"
+        type: string
+      - name: hero_line_4
+        label: "Главный заголовок: строка 4"
+        type: string
+      - name: hero_intro
+        label: "Главный вводный текст"
+        type: text
+      - name: hero_image
+        label: "Главная фотография"
+        type: image
+      - name: approach_quote
+        label: "Подход: цитата"
+        type: text
+      - name: approach_description
+        label: "Подход: описание"
+        type: text
+      - name: principle_1_title
+        label: "Принцип 1: заголовок"
+        type: string
+      - name: principle_1_text
+        label: "Принцип 1: текст"
+        type: text
+      - name: principle_2_title
+        label: "Принцип 2: заголовок"
+        type: string
+      - name: principle_2_text
+        label: "Принцип 2: текст"
+        type: text
+      - name: principle_3_title
+        label: "Принцип 3: заголовок"
+        type: string
+      - name: principle_3_text
+        label: "Принцип 3: текст"
+        type: text
+      - name: portrait
+        label: "Моё фото (можно оставить пустым)"
+        type: image
+      - name: about_lead
+        label: "Обо мне: начало"
+        type: string
+      - name: about_1
+        label: "Обо мне: абзац 1"
+        type: text
+      - name: about_2
+        label: "Обо мне: абзац 2"
+        type: text
+      - name: about_3
+        label: "Обо мне: абзац 3"
+        type: text
+      - name: services_description
+        label: "Сотрудничество: описание"
+        type: text
+      - name: service_1
+        label: "Услуга 1"
+        type: string
+      - name: service_2
+        label: "Услуга 2"
+        type: string
+      - name: service_3
+        label: "Услуга 3"
+        type: string
+      - name: service_4
+        label: "Услуга 4"
+        type: string
+      - name: contact_description
+        label: "Контакты: вступление"
+        type: text
+      - name: telegram
+        label: "Telegram: имя пользователя"
+        type: string
+      - name: phone
+        label: "Телефон"
+        type: string
+      - name: email
+        label: "Электронная почта"
+        type: string
+      - name: whatsapp
+        label: "WhatsApp: номер с кодом страны"
+        type: string
+  - name: house_1000
+    label: "Дом 1000 м²"
+    type: file
+    path: content/house-1000.json
+    format: json
+    fields:
+      - name: label
+        label: "Карточка: тип проекта"
+        type: string
+      - name: area
+        label: "Карточка: площадь"
+        type: string
+      - name: card_heading
+        label: "Карточка: заголовок"
+        type: string
+      - name: card_description
+        label: "Карточка: описание"
+        type: text
+      - name: card_image
+        label: "Карточка: фотография"
+        type: image
+      - name: page_label
+        label: "Страница проекта: подпись"
+        type: string
+      - name: page_heading
+        label: "Страница проекта: заголовок"
+        type: string
+      - name: page_description
+        label: "Страница проекта: описание"
+        type: text
+      - name: gallery
+        label: "Галерея: фотографии по порядку"
+        type: image
+        list: true
+  - name: apartment
+    label: "Квартира 300 м²"
+    type: file
+    path: content/apartment.json
+    format: json
+    fields:
+      - name: label
+        label: "Карточка: тип проекта"
+        type: string
+      - name: area
+        label: "Карточка: площадь"
+        type: string
+      - name: card_heading
+        label: "Карточка: заголовок"
+        type: string
+      - name: card_description
+        label: "Карточка: описание"
+        type: text
+      - name: card_image
+        label: "Карточка: фотография"
+        type: image
+      - name: page_label
+        label: "Страница проекта: подпись"
+        type: string
+      - name: page_heading
+        label: "Страница проекта: заголовок"
+        type: string
+      - name: page_description
+        label: "Страница проекта: описание"
+        type: text
+      - name: gallery
+        label: "Галерея: фотографии по порядку"
+        type: image
+        list: true
+  - name: house_350
+    label: "Дом 350 м²"
+    type: file
+    path: content/house-350.json
+    format: json
+    fields:
+      - name: label
+        label: "Карточка: тип проекта"
+        type: string
+      - name: area
+        label: "Карточка: площадь"
+        type: string
+      - name: card_heading
+        label: "Карточка: заголовок"
+        type: string
+      - name: card_description
+        label: "Карточка: описание"
+        type: text
+      - name: card_image
+        label: "Карточка: фотография"
+        type: image
+      - name: page_label
+        label: "Страница проекта: подпись"
+        type: string
+      - name: page_heading
+        label: "Страница проекта: заголовок"
+        type: string
+      - name: page_description
+        label: "Страница проекта: описание"
+        type: text
+      - name: gallery
+        label: "Галерея: фотографии по порядку"
+        type: image
+        list: true
+  - name: salon
+    label: "Салон красоты 300 м²"
+    type: file
+    path: content/salon.json
+    format: json
+    fields:
+      - name: label
+        label: "Карточка: тип проекта"
+        type: string
+      - name: area
+        label: "Карточка: площадь"
+        type: string
+      - name: card_heading
+        label: "Карточка: заголовок"
+        type: string
+      - name: card_description
+        label: "Карточка: описание"
+        type: text
+      - name: card_image
+        label: "Карточка: фотография"
+        type: image
+      - name: page_label
+        label: "Страница проекта: подпись"
+        type: string
+      - name: page_heading
+        label: "Страница проекта: заголовок"
+        type: string
+      - name: page_description
+        label: "Страница проекта: описание"
+        type: text
+      - name: gallery
+        label: "Галерея: фотографии по порядку"
+        type: image
+        list: true

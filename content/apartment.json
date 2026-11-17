@@ -1,19 +1,19 @@
 {
   "label": "02 / Двухуровневая квартира",
   "area": "300 м²",
-  "card_heading": "Переосмысление существующего интерьера",
-  "card_description": "Полное обновление интерьера квартиры со сложной геометрией помещений, комплектация и авторский надзор. Без перепланировки.",
-  "card_image": "assets/apartment-01.jpg",
+  "card_heading": "Двухуровневая квартира",
+  "card_description": "Преобразование интерьера квартиры с нерациональной исходной планировкой средствами выразительных композиционных и декоративных решений.",
+  "card_image": "/assets/apartment-01.jpg",
   "page_label": "Двухуровневая квартира, 300 м²",
   "page_heading": "Переосмысление существующего интерьера",
   "page_description": "Квартира с готовым ремонтом получила полностью новый интерьер. Основной задачей стала работа со сложными формами помещений и особенностями существующей планировки. Перепланировка не проводилась. Проект включал комплектацию и авторский надзор.",
   "gallery": [
-    "assets/apartment-01.jpg",
-    "assets/apartment-02.jpg",
-    "assets/apartment-03.jpg",
-    "assets/apartment-04.jpg",
-    "assets/apartment-05.jpg",
-    "assets/apartment-06.jpg",
-    "assets/apartment-07.jpg"
+    "/assets/apartment-01.jpg",
+    "/assets/apartment-02.jpg",
+    "/assets/apartment-03.jpg",
+    "/assets/apartment-04.jpg",
+    "/assets/apartment-05.jpg",
+    "/assets/apartment-06.jpg",
+    "/assets/apartment-07.jpg"
   ]
 }

@@ -1,19 +1,19 @@
 {
   "label": "04 / Общественный интерьер",
   "area": "300 м²",
-  "card_heading": "Пространство для работы и посетителей",
-  "card_description": "Реализованный двухэтажный салон красоты: перепланировка и дизайн интерьера. В кабинетах при реализации были изменения.",
-  "card_image": "assets/salon-01.jpg",
+  "card_heading": "Салон красоты",
+  "card_description": "Перепланировка и дизайн интерьера салона красоты с учетов функциональных процессов и эстетики пространства.",
+  "card_image": "/assets/WhatsApp Image 2021-07-18 at 13.38.38 (1).jpg",
   "page_label": "AIRIS beauty, 300 м²",
-  "page_heading": "Пространство красоты",
+  "page_heading": "Интерьер салона красоты",
   "page_description": "Реализованный проект перепланировки и дизайна интерьера двухэтажного салона красоты. В ходе реализации в кабинетах были внесены существенные изменения. Показанные изображения — проектные визуализации.",
   "gallery": [
-    "assets/salon-01.jpg",
-    "assets/salon-02.jpg",
-    "assets/salon-03.jpg",
-    "assets/salon-04.jpg",
-    "assets/salon-05.jpg",
-    "assets/salon-06.jpg",
-    "assets/salon-07.jpg"
+    "/assets/salon-01.jpg",
+    "/assets/salon-02.jpg",
+    "/assets/salon-03.jpg",
+    "/assets/salon-04.jpg",
+    "/assets/salon-05.jpg",
+    "/assets/salon-06.jpg",
+    "/assets/salon-07.jpg"
   ]
 }

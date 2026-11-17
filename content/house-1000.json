@@ -1,20 +1,20 @@
 {
   "label": "01 / Загородный дом",
   "area": "1000 м²",
-  "card_heading": "Реконструкция и целостная жилая среда",
-  "card_description": "Зимний сад, беседка, интерьер, комплектация и авторский надзор.",
-  "card_image": "assets/house-1000-01.jpg",
-  "page_label": "Загородный дом, 1000 м²",
+  "card_heading": "Загородный дом с зимним садом",
+  "card_description": "Реконструкция существующего дома с расширением жилого пространства и созданием единой архитектурно-интерьерной среды.",
+  "card_image": "/assets/house-1000-01.jpg",
+  "page_label": "Реконструкция Архитектура и интерьер",
   "page_heading": "Реконструкция и комплексное развитие жилой среды",
   "page_description": "Реконструкция существующего дома, проектирование зимнего сада и беседки, интерьер, комплектация и авторский надзор.",
   "gallery": [
-    "assets/house-1000-01.jpg",
-    "assets/house-1000-02.jpg",
-    "assets/house-1000-03.jpg",
-    "assets/house-1000-04.jpg",
-    "assets/house-1000-05.jpg",
-    "assets/house-1000-06.jpg",
-    "assets/house-1000-07.jpg",
-    "assets/house-1000-08.jpg"
+    "/assets/house-1000-01.jpg",
+    "/assets/house-1000-02.jpg",
+    "/assets/house-1000-03.jpg",
+    "/assets/house-1000-04.jpg",
+    "/assets/house-1000-05.jpg",
+    "/assets/house-1000-06.jpg",
+    "/assets/house-1000-07.jpg",
+    "/assets/house-1000-08.jpg"
   ]
 }
